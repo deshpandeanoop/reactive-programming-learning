@@ -1,4 +1,4 @@
-package $org.example;
+package org.explore.reactive;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

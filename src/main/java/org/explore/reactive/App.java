@@ -1,4 +1,4 @@
-package $org.example;
+package org.explore.reactive;
 
 /**
  * Hello world!
